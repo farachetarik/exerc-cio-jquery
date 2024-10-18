@@ -39,7 +39,7 @@ button {
 }
 
 ul {
-text-align: center;
+    text-align: center;
     justify-content: center;
 }
 
@@ -54,3 +54,4 @@ ul li {
 .checked {
     text-decoration: line-through;
 }
+
